@@ -13,7 +13,8 @@
 <a target="_blank" href="mailto:jfalca@live.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/microsoftoutlook.svg" />
 </a>
-</br>
+
+<br/>
 
 
 
