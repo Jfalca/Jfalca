@@ -1,4 +1,8 @@
-### 👋 Olá, Me chamo Jorge! 
+### 👋 Hi, I'm Jorge Falca.
+
+I'm a Fullcycle Developer from Brazil, **32 years old** and **8 years of coding**.
+
+----
 
 <p>
 <a target="_blank" href="https://www.linkedin.com/in/jorge-falca-6792825b/">
@@ -17,18 +21,3 @@
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/microsoftoutlook.svg" />
 </a>
 </p>
----
-
-Hi, I'm Jorge Falca.
-
-I'm a FullStack Javascript Developer from Brazil, **32 years old** and **8 years of coding**.
-
-----
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-
