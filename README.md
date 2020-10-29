@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Jorge Falca.
 
-I'm a Fullcycle Developer from Brazil, **32 years old** and **8 years of coding**.
+I'm a Fullcycle Developer from Brazil, **32 years old** and **9 years of coding**.
 
 ----
 
